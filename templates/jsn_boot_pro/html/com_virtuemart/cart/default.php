@@ -1,1 +1,5 @@
-echo "irgendwas";
+<?php
+
+$var = "irgendwas";
+
+echo $var;
